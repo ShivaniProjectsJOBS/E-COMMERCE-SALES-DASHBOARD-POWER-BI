@@ -50,9 +50,10 @@ AOV = Total Amount / Total Orders
 
 ## 📁 Project Files
 - `E-Commerce-Sales-Dashboard.pbix` – Power BI dashboard file
-- `Dashboard-Screenshot.png` – Dashboard preview
+- ![Store Sales Dashboard](<Linkedin_Sales_Dashboard.png>)– Dashboard preview
 
 ## 🎯 Project Objective
 To transform sales data into meaningful visual insights and support better business understanding through interactive reporting.
+
 
 This project is part of my Data Analytics learning journey.
